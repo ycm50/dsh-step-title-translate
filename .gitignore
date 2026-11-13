@@ -1,0 +1,7 @@
+# nothing generated: lib/ is the hand-written, committed output
+node_modules/
+tmpscripts/
+*.tgz
+*.log
+.DS_Store
+Thumbs.db

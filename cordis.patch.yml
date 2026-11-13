@@ -1,0 +1,11 @@
+# dsh-step-title-translate — Bing translation for tool-call step titles.
+# The row id below is also the settings namespace the plugin page edits.
+- insert:
+    - id: step-title-translate
+      name: dsh-step-title-translate
+      config:
+        enabled: true
+        targetLanguage: zh-Hans
+        translateTitle: true
+        translateErrors: true
+        proxy: ""
